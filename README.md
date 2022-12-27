@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Latest Project: LeetDoge
-[![Watch the video](https://imgur.com/a/Thwnogi)](https://www.youtube.com/watch?v=16pxKZIjH1o)
+[![Watch the video](https://i.imgur.com/8BQ3oOx.png)](https://www.youtube.com/watch?v=16pxKZIjH1o)
