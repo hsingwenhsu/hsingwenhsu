@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Vivi (Hsing-Wen) Hsu 🐕
 
 <!--
 **hsingwenhsu/hsingwenhsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Latest Project: LeetDoge
+[![Watch the video](https://imgur.com/a/Thwnogi)](https://www.youtube.com/watch?v=16pxKZIjH1o)
