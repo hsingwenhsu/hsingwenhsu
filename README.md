@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 - Tech Stacks:
     - Amazon Web Services: EC2, Elastic Beanstalk, S3, CloudFront, RDS, Step Functions, Lambda, SNS, API Gateway
     - Front End: ReactJS
-    - Backend: NodeJS, Python (Flask)
+    - Backend (Microservices): NodeJS, Python (Flask)
     - Google OAuth: https://oauthlib.readthedocs.io/en/latest/
     - MySQL
-    - 
+   
 - Key Features:
     - Google OAuth Login
     - Pagination using HATEOAS-driven REST APIs
