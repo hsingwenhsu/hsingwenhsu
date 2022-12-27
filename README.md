@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     - 🦁 MS in Computer Science @Columbia University (Software Systems Track)
     - 🐿️ BS in Electrical Engineering w/ Double Major in Computer Science @National Taiwan University     
 - 📫 How to reach me: hsingwen.vivi.hsu@gmail.com
-- ⚡ Fun fact: I love dogs and C++!
+- ⚡ Fun fact: I love dogs!
 - Skills:
     - Programming Languages: C/C++, Python, Java, Golang, Haskell, MATLAB, JavaScript, Ruby on Rails, Bash
     - System Related: Distributed Systems, Network Systems, Database, Parallel Functional Programming, Compilers, Cloud Computing
